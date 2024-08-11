@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently focused on laying the foundation for my career.
-- 🌱 I’m a competitive programmer and do some CP coaching. [Codeforces: X_ShaDowaa](https://codeforces.com/profile/X_ShaDowaa)
+- 🌱 I’m a competitive programmer and I do some CP coaching. [Codeforces: X_ShaDowaa](https://codeforces.com/profile/X_ShaDowaa)
 - 🤖 I’m currently learning AI & Machine learning.
 - 👯 I’m looking to collaborate on innovative projects.
   
